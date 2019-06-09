@@ -9,7 +9,7 @@ Authors@R: c(person("Dario", "Romagnoli", role=c("aut", "cre"),
   email="dario.romagnoli87@gmail.com"),
   person("Matteo", "Benelli", role="aut"),
   person("Francesca", "Demichelis", role="aut"))
-Depends: R (>= 3.5.0)
+Depends: R (>= 3.4.2)
 Imports:
     parallel,
     GenomicRanges,
